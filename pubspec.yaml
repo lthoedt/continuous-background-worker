@@ -9,6 +9,9 @@ environment:
 # Add regular dependencies here.
 dependencies:
   # path: ^1.8.0
+  rxdart: ^0.28.0
+  flutter_background_service: ^5.0.6
+  async: ^2.11.0
 
 dev_dependencies:
   lints: ^3.0.0
